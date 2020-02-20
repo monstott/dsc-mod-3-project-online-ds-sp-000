@@ -1,6 +1,13 @@
 
 # Module 3 -  Final Project Specifications
 
+## Repository Contents
+* Mod3ProjectPresentation.pdf - Executive summary of the project for a non-technical audience
+* mod3_notebook.ipynb - Jupyter Notebook containing code written for the project for a technical audience
+* Northwind_small.sqlite - Provided database for the project
+* Northwind_ERD.png, Northwind_ERD_updated.png - Provided entity-relationship diagrams for the database
+* Other Files (.gitignore, .learn, CONTRIBUTING.md, LICENSE.md, README.md, adventureworks2008_schema.gif, halfway-there.gif) - Forked repository files
+
 ## Introduction
 
 In this lesson, we'll review all the guidelines and specifications for the final project for Module 3.
